@@ -47,14 +47,32 @@ OCaml learning material: <https://ocaml.org/learn/>
 - **Lectures:** Tuesday and Thursday, 12:30 PM - 13:50 PM, Room B103
 - **Recitation:** Tuesday, 2:00 PM - 2:55 PM, Room B103
 - **Homework:** Announced every Thursday, with submissions due by the following Thursday at 11:59 PM KST.
-- **Office Hours:** Mondays, 3:00 PM - 4:00 PM, and Wednesdays, 2:00 PM - 3:00 PM,  Room B424.
+- **Office Hours:** Tuesdays, 3:00 PM - 4:00 PM, and Thursdays, 2:00 PM - 3:00 PM,  Room B424.
 
 # Instructor
 
 **Zhoulai Fu**  
 Email: \<zhoulai dot fu at sunykorea dot ac dot kr\>  
 
+# TAs and Office Hours
 
+## Sojeong Shin
+- **Office Hours:**
+  - Monday: 3:00 PM – 5:00 PM
+  - Tuesday: 4:00 PM – 6:00 PM
+- **Office:** C408
+- **Email:** [sojeong.shin@stonybrook.edu](mailto:sojeong.shin@stonybrook.edu)
+
+## Sihoon Sung
+- **Office Hours:**
+  - Thursday: 3:00 PM – 5:00 PM
+  - Wednesday: 1:00 PM – 3:00 PM
+- **Email:** [sihoon.sung@stonybrook.edu](mailto:sihoon.sung@stonybrook.edu)
+
+## Jaeseong Yoon
+- **Office Hours:**
+  - Monday: 1:00 PM – 3:00 PM
+- **Email:** [jaeseong.yoon@stonybrook.edu](mailto:jaeseong.yoon@stonybrook.edu)
 
 
 # Zoom (just in case)
