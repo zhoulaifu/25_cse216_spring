@@ -55,6 +55,20 @@ OCaml learning material: <https://ocaml.org/learn/>
 Email: \<zhoulai dot fu at sunykorea dot ac dot kr\>  
 
 # TAs and Office Hours
+- Sojeong Shin 
+              Mon 3-5PM
+              Tue 4-6PM
+              Office: C408
+              sojeong.shin@stonybrook.edu
+- Sihoon Sung 
+             Wed 1-3PM
+             Thur 3-5PM
+              sihoon.sung@stonybrook.edu
+- Jaeseong Yoon
+              Mon 10:30am-2:30PM
+              jaeseong.yoon@stonybrook.edu    
+
+
 
 ## Sojeong Shin
 - **Office Hours:**
